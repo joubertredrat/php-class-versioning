@@ -1,0 +1,16 @@
+{
+    "name": "redrat/php-class-versioning",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Redrat\\PhpClassVersioning\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joubert RedRat",
+            "email": "eu+git@redrat.com.br"
+        }
+    ],
+    "require": {}
+}
